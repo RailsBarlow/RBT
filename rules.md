@@ -111,7 +111,7 @@ All finales will be played except for The Parish finale.
 ##Section 3: Registration process
 
 #####3.1 Registration
-Teams may register by posting on [l4dnation](l4dnation.com).
+Teams may register by posting on [l4dnation](http://www.l4dnation.com).
 
 #####3.2 Deadline
 The deadline for registrations is midnight on May 31st 2014.
