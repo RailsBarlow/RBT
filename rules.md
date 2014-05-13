@@ -17,10 +17,8 @@ All other trademarks are property of their respective owners.
 
 #####1.1 Staff
 
-The Tournament Director will be:
-- [an entire sleeve of fig newtons](http://steamcommunity.com/id/fignewtons)
-
-The Assistant Tournament Director(s) will be:
+The Tournament Directors will be:
+- [Jacob](http://steamcommunity.com/id/jacob404)
 - [Rails Barlow](http://steamcommunity.com/profiles/76561198046098995)
 
 #####1.2 Disputes
@@ -43,25 +41,25 @@ Official communication will take place via the forum on L4Dnation.com.
 ##Section 2: Tournament Format
 
 #####2.1 Format
-This will be a Swiss system tournament of 5 rounds. A match win will
+This will be a Swiss system tournament of 6 rounds. A match win will
 score 1 point; a tie scores a half point; a loss or forfeit scores 0
-points.
+points. After the Swiss portion of the tournament, the top 8 teams will
+advance to a Single Elimination Finals bracket.
 
 ######2.1.1 Pairings
 After the registration deadline, the registered participants will be
-seeded according to the judgment of the tournament director. The first
-round will then be paired by a "top half vs bottom half" method. For
-example, if there are 10 participants, then the #1 seed will be paired
-against the #6 seed, the #2 seed against the #7 seed, and so on.
+seeded according to the judgment of the tournament director. Teams
+will be matched against teams of even skill and if possible will
+accomodate to region.
 
 In subsequent rounds, participants will be paired at random against
 others with the same record of Won : Lost games.
 
-There will be no eliminations due to poor results or lost games.
 
 ######2.1.2 Double Jeopardy
-Under no circumstances will two competitors face each other more than
-once during the tournament.
+Teams will never play against the same team during the Swiss portion.
+However replays may be possible in the finals. The winner of the first
+matchup will be given the advantage of home team.
 
 ######2.1.3 Byes
 In the event that a round must be paired with an uneven number of
@@ -97,23 +95,28 @@ Therefore, there will be a ZERO TOLERANCE policy for matches that
 remain unreported past the round deadline.
 
 #####2.3 Maps
-- Round 1: Death Toll
-- Round 2: Hard Rain
-- Round 3: Swamp Fever
-- Round 4: Dark Carnival
-- Round 5: The Parish
+- Round 1: Swamp Fever
+- Round 2: No Mercy
+- Round 3: Dead Center
+- Round 4: Parish
+- Round 5: Dark Carnival
+- Round 6: Hard Rain
+
+- Finals 1: Death Toll
+- Finals 2: Parish
+- Finals 3: Dark Carnival
 
 ######2.3.2 Finales
-All finales will be played except for The Parish finale.
+All finales will be played including The Parish finale.
 
 ##Section 3: Registration process
 
 #####3.1 Registration
-Teams may register by filling out the [web form](https://docs.google.com/forms/d/18L6KR5lgGzh2wGbD1M6YTDMxRqU1c9CXWK-A_gAYatU/viewform).
+Teams may register by posting on [l4dnation](l4dnation.com).
 
 #####3.2 Deadline
-The deadline for registrations is midnight on April 12, 2014. Late
-registrations will not be accepted.
+The deadline for registrations is midnight on May 31st 2014.
+Late registrations will not be accepted.
 
 #####3.3 Double registration
 A player may be registered for only one team in the tournament. A player
@@ -160,7 +163,7 @@ at [doodle.com](http://doodle.com): it is free, functional, does not
 require registration, and supports time zones.
 
 ######5.1.1 Scheduling deadline
-Matches must be scheduled before the following Wednesday at midnight.
+Matches must be scheduled at least 12 hours in advance.
 
 Teams are encouraged to begin negotiating the schedule early; delinquent
 scheduling must be brought to the attention of the staff before the
@@ -184,7 +187,7 @@ messenger.
 #####5.2 Tardiness
 Each competitor has 15 minutes after the scheduled time to have 4 players in
 the server and readied up. The standard penalty for failure will be a
-forfeit loss of the match.
+forfeit loss of the match. This will be strictly enforced.
 
 Each team is permitted one (1) 10-minute break per match, and only
 between rounds. Extra breaks require the consent of both the other
