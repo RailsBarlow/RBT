@@ -101,13 +101,12 @@ remain unreported past the round deadline.
 - Round 4: Parish
 - Round 5: Dark Carnival
 - Round 6: Hard Rain
-
 - Finals 1: Death Toll
 - Finals 2: Parish
 - Finals 3: Dark Carnival
 
 ######2.3.2 Finales
-All finales will be played including The Parish finale.
+All finales will be played except for The Parish finale.
 
 ##Section 3: Registration process
 
