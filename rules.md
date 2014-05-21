@@ -242,8 +242,6 @@ To record a demo, open the console and type `record <demoname>`.  It is
 not necessary to re-record after a map change, but it is necessary to
 re-record after disconnecting from the server for any reason.
 
-Players are required to save demos until the end of the tournament.
-
 ######5.7.2 Screenshots are mandatory
 Each team is allowed up to one (1) pause per round to request
 screenshots.
