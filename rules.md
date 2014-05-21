@@ -242,6 +242,8 @@ To record a demo, open the console and type `record <demoname>`.  It is
 not necessary to re-record after a map change, but it is necessary to
 re-record after disconnecting from the server for any reason.
 
+Players are required to save demos until the end of the tournament.
+
 ######5.7.2 Screenshots are mandatory
 Each team is allowed up to one (1) pause per round to request
 screenshots.
@@ -249,16 +251,13 @@ screenshots.
 Each player must take a screenshot whenever asked by anyone in the
 server.
 
+Players are required to save screenshots for 2 weeks after the match in which they were taken.
+
 ######5.7.3 Privacy
-Players are never required to provide demos or screenshots to anyone
-except the staff. Although there is no basis for an expectation of
-privacy, they are considered confidential and will be shared only for:
+If a team would like to request demos or screenshots from a player, they must go through the admins.
+Harassing a player over steam, l4dnation, or any other method, will be seen as unsportsmanlike and will result in a penalty. The admin will review the screenshot / demo and then pass it along to the team who requested it. Only teams entered in the tourney are allowed to request demos.
 
-- Asking second opinions of skilled players who are trusted to keep what
-  they find in confidence
-- To expose wrongdoing to the community if, and only if, it is discovered
-
-######5.7.5 Responsibility is with you
+######5.7.4 Responsibility is with you
 It is each player’s individual responsibility to ensure that demos
 and screenshots are recorded, uncorrupted, and submitted in a timely
 manner.
