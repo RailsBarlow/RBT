@@ -152,6 +152,9 @@ If both teams have a server but cannot agree on which server to use, the
 match will be played on the server that satisfies the above criteria and
 has most even average ping for all the players.
 
+#####4.7 International Match Guidelines
+In the interest of having matches played which are most fair in terms of latency for both sides, it is highly recommended that matches between North American and European teams are played on a New York server, matches between Asian and North American teams are played on a Los Angeles server, and matches between Asian and European teams are played on a Dallas server. If a team feels as if their opponent is attempting to gain an unfair advantage via unbalanced latency while fairer options are available, please contact a tournament administrator.
+
 ##Section 5: Match schedule
 
 #####5.1 Rounds and scheduling
